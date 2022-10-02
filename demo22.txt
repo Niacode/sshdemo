@@ -1,3 +1,7 @@
 this line is added on git hub. earlier it was empty
 making changes in the local rerpository
+<<<<<<< HEAD
 adding this line on local repo
+=======
+adding the 3rd line on git hub
+>>>>>>> 817601dc6ef3ba7039e4064685101e6bb15037a4
